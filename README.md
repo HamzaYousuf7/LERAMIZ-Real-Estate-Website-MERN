@@ -1,3 +1,8 @@
+## Note 
+I do not own this template nor did i create it. This temlate was made by https://colorlib.com/
+I'm just using there template for learning perpose 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

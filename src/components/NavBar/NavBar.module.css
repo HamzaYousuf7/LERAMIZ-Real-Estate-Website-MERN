@@ -1,0 +1,13 @@
+.closeNavBarSmallScreen {
+  display: none;
+}
+
+.openNavBarSmallScreen {
+  display: block;
+}
+
+@media only screen and (min-width: 767px) {
+  .closeNavBarSmallScreen {
+    display: block;
+  }
+}
